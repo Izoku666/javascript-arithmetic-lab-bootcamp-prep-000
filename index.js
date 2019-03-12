@@ -13,7 +13,8 @@ function multiply(a , b)
   return a * b
 }
 
-functio multiply
+function divide (a , b)
 {
-  
+  return a / b
 }
+
